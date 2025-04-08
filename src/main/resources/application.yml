@@ -75,3 +75,6 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.cnj.cnjbackend.controller
+# AI配置
+ai:
+  apiKey: bc1211b37915420eb0839f3804e2863a.S6G67wyE8K6o1zLD
